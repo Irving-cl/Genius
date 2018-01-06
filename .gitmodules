@@ -1,0 +1,3 @@
+[submodule "src/client/Genius"]
+	path = src/client/Genius
+	url = https://github.com/deadmarston/Genius.git

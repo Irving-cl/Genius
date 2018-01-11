@@ -1,0 +1,7 @@
+ip/udp test suite begins
+ip_udp_socket_compile::test passed
+ip_udp_socket_runtime::test passed
+ip_udp_resolver_compile::test passed
+ip/udp test suite ends
+
+*** No errors detected.

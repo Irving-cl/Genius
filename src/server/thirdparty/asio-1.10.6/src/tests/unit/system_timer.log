@@ -1,0 +1,8 @@
+system_timer test suite begins
+system_timer_test passed
+system_timer_cancel_test passed
+system_timer_custom_allocation_test passed
+system_timer_thread_test passed
+system_timer test suite ends
+
+*** No errors detected.

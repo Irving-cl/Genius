@@ -1,0 +1,10 @@
+read_until test suite begins
+test_char_read_until passed
+test_string_read_until passed
+test_match_condition_read_until passed
+test_char_async_read_until passed
+test_string_async_read_until passed
+test_match_condition_async_read_until passed
+read_until test suite ends
+
+*** No errors detected.

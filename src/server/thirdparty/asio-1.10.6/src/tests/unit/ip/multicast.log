@@ -1,0 +1,6 @@
+ip/multicast test suite begins
+ip_multicast_compile::test passed
+ip_multicast_runtime::test passed
+ip/multicast test suite ends
+
+*** No errors detected.

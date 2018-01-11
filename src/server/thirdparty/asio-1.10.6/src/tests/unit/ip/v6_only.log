@@ -1,0 +1,6 @@
+ip/v6_only test suite begins
+ip_v6_only_compile::test passed
+ip_v6_only_runtime::test passed
+ip/v6_only test suite ends
+
+*** No errors detected.

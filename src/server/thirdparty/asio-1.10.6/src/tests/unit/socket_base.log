@@ -1,0 +1,7 @@
+socket_base test suite begins
+socket_base_compile::test passed
+unit/socket_base.cpp(249): socket_base_runtime::test: Must be root to set debug socket option
+socket_base_runtime::test passed
+socket_base test suite ends
+
+*** No errors detected.

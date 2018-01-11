@@ -1,0 +1,5 @@
+ssl/stream test suite begins
+ssl_stream_compile::test passed
+ssl/stream test suite ends
+
+*** No errors detected.

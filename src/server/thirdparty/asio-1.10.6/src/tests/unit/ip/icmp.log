@@ -1,0 +1,6 @@
+ip/icmp test suite begins
+ip_icmp_socket_compile::test passed
+ip_icmp_resolver_compile::test passed
+ip/icmp test suite ends
+
+*** No errors detected.

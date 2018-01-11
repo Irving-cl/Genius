@@ -1,0 +1,6 @@
+ip/address_v6 test suite begins
+ip_address_v6_compile::test passed
+ip_address_v6_runtime::test passed
+ip/address_v6 test suite ends
+
+*** No errors detected.

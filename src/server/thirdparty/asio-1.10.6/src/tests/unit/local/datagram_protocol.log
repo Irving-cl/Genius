@@ -1,0 +1,5 @@
+local/datagram_protocol test suite begins
+local_datagram_protocol_socket_compile::test passed
+local/datagram_protocol test suite ends
+
+*** No errors detected.

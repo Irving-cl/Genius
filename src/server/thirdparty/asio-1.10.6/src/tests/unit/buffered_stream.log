@@ -1,0 +1,7 @@
+buffered_stream test suite begins
+test_compile passed
+test_sync_operations passed
+test_async_operations passed
+buffered_stream test suite ends
+
+*** No errors detected.

@@ -1,0 +1,11 @@
+ip/tcp test suite begins
+ip_tcp_compile::test passed
+ip_tcp_runtime::test passed
+ip_tcp_socket_compile::test passed
+ip_tcp_socket_runtime::test passed
+ip_tcp_acceptor_compile::test passed
+ip_tcp_acceptor_runtime::test passed
+ip_tcp_resolver_compile::test passed
+ip/tcp test suite ends
+
+*** No errors detected.

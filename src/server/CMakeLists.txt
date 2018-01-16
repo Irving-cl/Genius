@@ -16,7 +16,12 @@ SET(SPDLOG_PATH "./thirdparty/spdlog/include/spdlog")
 
 INCLUDE_DIRECTORIES(${ASIO_PATH})
 INCLUDE_DIRECTORIES(${SPDLOG_PATH})
+INCLUDE_DIRECTORIES(${PROJECT_BINARY_PATH})
 
-SET(SRC test.cpp)
+SET(SRC 
+  test.cpp
+  node_session.cpp
+  node.cpp)
+
 ADD_EXECUTABLE(test ${SRC})
 
